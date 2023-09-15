@@ -1,0 +1,385 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/aAgGrfBwna1nO4M2USxwFgK5O0t.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 713704,
+      "original_language": "en",
+      "original_title": "Evil Dead Rise",
+      "overview": "Three siblings find an ancient vinyl that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+      "popularity": 2093.656,
+      "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+      "release_date": "2023-04-12",
+      "title": "Evil Dead Rise",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 1500
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kyeqDT2cFhTmwlvtuQY3n2W6Vf3.jpg",
+      "genre_ids": [
+        28,
+        53,
+        27
+      ],
+      "id": 799379,
+      "original_language": "ko",
+      "original_title": "늑대사냥",
+      "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+      "popularity": 1374.848,
+      "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
+      "release_date": "2022-09-21",
+      "title": "Project Wolf Hunting",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 149
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 758323,
+      "original_language": "en",
+      "original_title": "The Pope's Exorcist",
+      "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+      "popularity": 1345.099,
+      "poster_path": "/gNPqcv1tAifbN7PRNgqpzY8sEJZ.jpg",
+      "release_date": "2023-04-05",
+      "title": "The Pope's Exorcist",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1300
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "id": 934433,
+      "original_language": "en",
+      "original_title": "Scream VI",
+      "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+      "popularity": 617.739,
+      "poster_path": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "release_date": "2023-03-08",
+      "title": "Scream VI",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1314
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9qcXIX4Sjv6oEKLvaLYJTabLqR.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1020696,
+      "original_language": "en",
+      "original_title": "Play Dead",
+      "overview": "Criminology student Chloe fakes her own death to break into a morgue, in order to retrieve a piece of evidence that ties her younger brother to a crime gone wrong. Once inside, she discovers that a sadistic coroner is using the corpses for his sick and twisted business, and when he realises that Chloe still has a pulse, a terrifying game of cat and mouse ensues.",
+      "popularity": 544.817,
+      "poster_path": "/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg",
+      "release_date": "2022-12-09",
+      "title": "Play Dead",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 63
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9t0tJXcOdWwwxmGTk112HGDaT0Q.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 890771,
+      "original_language": "en",
+      "original_title": "The Black Demon",
+      "overview": "Oilman Paul Sturges' idyllic family vacation turns into a nightmare when they encounter a ferocious megalodon shark that will stop at nothing to protect its territory. Stranded and under constant attack, Paul and his family must somehow find a way to get his family back to shore alive before it strikes again in this epic battle between humans and nature.",
+      "popularity": 728.864,
+      "poster_path": "/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",
+      "release_date": "2023-04-26",
+      "title": "The Black Demon",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 77
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9oEbhx52BOgHvnOYisrVROfwt94.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 702621,
+      "original_language": "en",
+      "original_title": "Lullaby",
+      "overview": "A new mother discovers a lullaby in an ancient book and soon regards the song as a blessing. But her world transforms into a nightmare when the lullaby brings forth the ancient demon Lilith.",
+      "popularity": 524.991,
+      "poster_path": "/vmE4gZ9vy8ammgS2UsEh0Z1OCia.jpg",
+      "release_date": "2022-12-16",
+      "title": "Lullaby",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e7FzphKs5gzoghDotAEp2FeP46u.jpg",
+      "genre_ids": [
+        27,
+        35,
+        28
+      ],
+      "id": 649609,
+      "original_language": "en",
+      "original_title": "Renfield",
+      "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+      "popularity": 486.476,
+      "poster_path": "/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+      "release_date": "2023-04-07",
+      "title": "Renfield",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A077VsMIBBXNvlI5mohGnSiIrfI.jpg",
+      "genre_ids": [
+        878,
+        27,
+        35
+      ],
+      "id": 536554,
+      "original_language": "en",
+      "original_title": "M3GAN",
+      "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+      "popularity": 319.961,
+      "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "release_date": "2022-12-28",
+      "title": "M3GAN",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 2697
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/brSiX0tIQouf61dLOuJPCPZ1h1h.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 981324,
+      "original_language": "en",
+      "original_title": "Island of the Dolls",
+      "overview": "A group of people go to the legendary Island of the Dolls to learn the deadly truth.",
+      "popularity": 429.038,
+      "poster_path": "/sqfMynwPxlgPzba8JsAHphx8pXS.jpg",
+      "release_date": "2023-01-13",
+      "title": "Island of the Dolls",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wD2kUCX1Bb6oeIb2uz7kbdfLP6k.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 980078,
+      "original_language": "en",
+      "original_title": "Winnie the Pooh: Blood and Honey",
+      "overview": "Christopher Robin is headed off to college and he has abandoned his old friends, Pooh and Piglet, which then leads to the duo embracing their inner monsters.",
+      "popularity": 356.786,
+      "poster_path": "/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg",
+      "release_date": "2023-01-27",
+      "title": "Winnie the Pooh: Blood and Honey",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 622
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4soWZwLbJz1XDJ6Astk76uorvXA.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1115710,
+      "original_language": "en",
+      "original_title": "The Mount 2",
+      "overview": "A year after the incident at the Mount, the police are still investigating the murders of Philomena and Caroline. The Mount has been cordoned off by the police. However, on Halloween night, a group of teenagers break in. They plan on holding a wedding between friends, conducted by a rather odd character, however, little did they know some unexpected guests would show up to crash the party.",
+      "popularity": 392.008,
+      "poster_path": "/c8nLpPuxTS2nirHiw7BNLuCiZsV.jpg",
+      "release_date": "2023-05-12",
+      "title": "The Mount 2",
+      "video": false,
+      "vote_average": 2,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jgGP3HxKUrYM7sPIFVH7L0k8Mmq.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1094403,
+      "original_language": "en",
+      "original_title": "Malum",
+      "overview": "A rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father's death and a vicious cult.",
+      "popularity": 263.738,
+      "poster_path": "/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg",
+      "release_date": "2023-03-31",
+      "title": "Malum",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xZccWNz4v4dJDAPUwrrJKihq1F6.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 631842,
+      "original_language": "en",
+      "original_title": "Knock at the Cabin",
+      "overview": "While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.",
+      "popularity": 275.895,
+      "poster_path": "/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",
+      "release_date": "2023-02-01",
+      "title": "Knock at the Cabin",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 1512
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bsvplO2lXmtMuxO9TgpD7mlas8K.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 943788,
+      "original_language": "en",
+      "original_title": "From Black",
+      "overview": "A young mother who's crushed by guilt and shame after the disappearance of her young son five years previously, is offered a bizarre opportunity to learn the truth and set things right. Is she willing to pay the terrifying price for a chance to hold her boy again?",
+      "popularity": 328.635,
+      "poster_path": "/9DG2g1Gl1ENAxFONIxxb5FMH99f.jpg",
+      "release_date": "2023-03-15",
+      "title": "From Black",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fpaVxLcSQnnMdtcCRdZV0eTjJPg.jpg",
+      "genre_ids": [
+        14,
+        18,
+        27
+      ],
+      "id": 60898,
+      "original_language": "cn",
+      "original_title": "聊齋艷譚",
+      "overview": "Three vixens have meditated for 1,000 years to able to shed their animal natures and become human. For the final month of their rigors, they have moved near a village where women pray to a god of fertility. One sister visits the god's temple and thinks lustful thoughts. As she leaves, a priest confronts her, warning of dire consequences and of demons that will try to stop the vixens' transformation. Soon, the youngest sister saves a poor scholar from bandits and becomes enamored of him. Each sister visits him, and before long, the youth has made love to all three. After they invite him to stay with them, the playfulness takes a scary turn. Where can they turn for help?",
+      "popularity": 333.973,
+      "poster_path": "/fTUCwsxVoLFuodAtlL6aITP1B45.jpg",
+      "release_date": "1990-05-19",
+      "title": "Erotic Ghost Story",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wUwFMnbFxuDfcRSGGT7QQIGDRrH.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 785759,
+      "original_language": "en",
+      "original_title": "Two Witches",
+      "overview": "A matriarchal witch passes on her sinister inheritance to her grand-daughter, triggering the most horrific curses.",
+      "popularity": 315.804,
+      "poster_path": "/uL9fFTdNmUUlKIJfHJclN5X3bxH.jpg",
+      "release_date": "2023-03-02",
+      "title": "Two Witches",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 61
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/47e1Kh2XvlCZDr3QJqxSmmjffSH.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1008005,
+      "original_language": "es",
+      "original_title": "La niña de la comunión",
+      "overview": "Spain, late 1980s. Newcomer Sara tries to fit in with the other teens in this tight-knit small town in the province of Tarragona. If only she were more like her extroverted best friend, Rebe. They go out one night at a nightclub, on the way home, they come upon a little girl holding a doll, dressed for her first communion. And that's when the nightmare begins.",
+      "popularity": 297.018,
+      "poster_path": "/uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",
+      "release_date": "2023-02-10",
+      "title": "The Communion Girl",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 119
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cRdA9xjHBbobw4LJFsQ3j1CgpVq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 663712,
+      "original_language": "en",
+      "original_title": "Terrifier 2",
+      "overview": "After being resurrected by a sinister entity, Art the Clown returns to Miles County where he must hunt down and destroy a teenage girl and her younger brother on Halloween night.  As the body count rises, the siblings fight to stay alive while uncovering the true nature of Art's evil intent.",
+      "popularity": 266.485,
+      "poster_path": "/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg",
+      "release_date": "2022-10-06",
+      "title": "Terrifier 2",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 1217
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/94kQGMiFbs5MUTlt7kj9dewsMDi.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 676547,
+      "original_language": "en",
+      "original_title": "Prey for the Devil",
+      "overview": "In response to a global rise in demonic possessions, the Catholic Church reopens exorcism schools to train priests in the Rite of Exorcism. On this spiritual battlefield, an unlikely warrior rises: a young nun, Sister Ann. Thrust onto the spiritual frontline with fellow student Father Dante, Sister Ann finds herself in a battle for the soul of a young girl and soon realizes the Devil has her right where he wants her.",
+      "popularity": 238.477,
+      "poster_path": "/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg",
+      "release_date": "2022-10-23",
+      "title": "Prey for the Devil",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 673
+    }
+  ],
+  "total_pages": 1994,
+  "total_results": 39875
+}

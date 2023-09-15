@@ -1,0 +1,401 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/t2rAdgjSh0WYbXzdOB5zTDqzdCI.jpg",
+      "first_air_date": "2022-11-02",
+      "genre_ids": [
+        18
+      ],
+      "id": 213713,
+      "name": "Faltu",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Faltu",
+      "overview": "What's in a name? Amidst the arid landscape of Rajasthan, a young woman with dreamy eyes struggles to prove her worth.",
+      "popularity": 2723.498,
+      "poster_path": "/lgyFuoXs7GvKJN0mNm7z7OMOFuZ.jpg",
+      "vote_average": 4.5,
+      "vote_count": 27
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2022-11-28",
+      "genre_ids": [
+        18
+      ],
+      "id": 215315,
+      "name": "Rabb Se Hai Dua",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "रब्ब से है दुआ",
+      "overview": "Dua and her husband are a perfect married couple in the eyes of their family. However, Dua’s life turns upside down when her husband seeks her permission to marry another woman.",
+      "popularity": 2609.159,
+      "poster_path": "/6ikbefd7VeopbBuGgioYMNU5bQj.jpg",
+      "vote_average": 4.2,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/3n2TjKw3HrwDqgVgcynvantOfS3.jpg",
+      "first_air_date": "2023-01-04",
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 215103,
+      "name": "Teri Meri Doriyaann",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "तेरी मेरी डोरियाँ",
+      "overview": "It’s hate at first sight for Sahiba and Angad! But destined to be together, their lives get intertwined by a marriage alliance, and a love-hate story ensues.",
+      "popularity": 2576.657,
+      "poster_path": "/4BHDmYiuSnNL3nqKIOzLJKYX4AN.jpg",
+      "vote_average": 4.5,
+      "vote_count": 10
+    },
+    {
+      "backdrop_path": "/aWPhMZ0P2DyfWB7k5NXhGHSZHGC.jpg",
+      "first_air_date": "2023-05-08",
+      "genre_ids": [
+        18,
+        80,
+        10766
+      ],
+      "id": 209265,
+      "name": "Terra e Paixão",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Terra e Paixão",
+      "overview": "",
+      "popularity": 2507.765,
+      "poster_path": "/voaKRrYExZNkf1E4FZExU7fTd8w.jpg",
+      "vote_average": 6.9,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/4NcAz1QIqYnhe3u2pnVEVNwfTZf.jpg",
+      "first_air_date": "2020-10-05",
+      "genre_ids": [
+        18,
+        10766,
+        10751
+      ],
+      "id": 111453,
+      "name": "Ghum Hai Kisikey Pyaar Meiin",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "घुम है किसिकी प्यार में",
+      "overview": "Virat sacrifices his love to honour the promise he made to a dying man. Trapped between the past and the present, will he find love beyond the chains of duty?",
+      "popularity": 2239.73,
+      "poster_path": "/u3NVGYCpkAgBArXogLuHPfpSNwG.jpg",
+      "vote_average": 5.5,
+      "vote_count": 40
+    },
+    {
+      "backdrop_path": "/jWYzdSv85nncRxfDwYSQKKlnuhG.jpg",
+      "first_air_date": "2023-03-09",
+      "genre_ids": [
+        18
+      ],
+      "id": 221949,
+      "name": "Chashni",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "चाशनी",
+      "overview": "An untoward incident mars the loving relationship between two sisters- Chandni and Roshni. Years later, fate brings them face to face only to find out that they are daughter-in-law and mother-in-law for each other. Thus, begins a typical saas-bahu saga.",
+      "popularity": 2172.281,
+      "poster_path": "/qz3mN7SCTVskkDIBwceV4FXv2VC.jpg",
+      "vote_average": 3.8,
+      "vote_count": 6
+    },
+    {
+      "backdrop_path": "/azWBrlovNOOdy0eQYEe9BoiROoN.jpg",
+      "first_air_date": "2023-03-20",
+      "genre_ids": [
+        18,
+        10766
+      ],
+      "id": 209085,
+      "name": "Amor Perfeito",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Amor Perfeito",
+      "overview": "",
+      "popularity": 2081.752,
+      "poster_path": "/aOPhyvHDauWFuc3rthpHArCNyrm.jpg",
+      "vote_average": 3.7,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/i8NGdMIyZnGNpSHLDtpPwYXidPe.jpg",
+      "first_air_date": "2020-11-16",
+      "genre_ids": [
+        18,
+        10766,
+        10751
+      ],
+      "id": 113218,
+      "name": "Imlie",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "इमली",
+      "overview": "All Imlie wanted was to create a name for herself in the city. But upon her arrival, she finds herself caught in the middle of Aditya and Malini's love story.",
+      "popularity": 2079.877,
+      "poster_path": "/sltUDXvpDZK3aVIdtkbImhcJv8t.jpg",
+      "vote_average": 4.3,
+      "vote_count": 13
+    },
+    {
+      "backdrop_path": "/1Ezn8u1iEOwLHySpwnafinVWeXG.jpg",
+      "first_air_date": "2023-05-14",
+      "genre_ids": [
+        18
+      ],
+      "id": 226002,
+      "name": "Gen Z",
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "后浪",
+      "overview": "Ren Xinzheng, a professor at the University of Traditional Chinese Medicine, is dedicated to spreading Chinese medicine. He resigned to set up a traditional Chinese medicine inheritance class, hoping to train successors who can truly pass on the way of Chinese medicine. Unscrupulous Sun Toutou also accidentally joined the mentoring class, and he was at odds with Ren Xinzheng's son Ren Tianzhen, Yang Xiaohong, who had changed his career as a lawyer, Peng Shiyan, a pediatrician at a tertiary hospital, and Zhao Liquan, who wanted to become a famous doctor with the expectation of the whole village, and other students were also incompatible.\n\nThis group of students who came with their own questions, followed teachers such as Ren Xinzheng and Song Linglan who made great wishes, forged ahead in the direction of inheriting the orthodoxy, learning and inheriting traditional Chinese medicine culture in a backward manner.",
+      "popularity": 2008.079,
+      "poster_path": "/hquRJB69g1VnRzwX1yWWT7Cz9D6.jpg",
+      "vote_average": 5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/zrv9dK9FQepCS2KCNJ04LYsjsDd.jpg",
+      "first_air_date": "2023-04-02",
+      "genre_ids": [
+        10764
+      ],
+      "id": 210479,
+      "name": "Survivor Québec",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "fr",
+      "original_name": "Survivor Québec",
+      "overview": "",
+      "popularity": 1921.966,
+      "poster_path": "/cuVZay78P1WkBet12KF8tRJYtp4.jpg",
+      "vote_average": 4.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/xYiI6QEZvx8Z4La1oHvApyZHpOU.jpg",
+      "first_air_date": "2023-01-16",
+      "genre_ids": [
+        10766,
+        35
+      ],
+      "id": 209117,
+      "name": "Never Give Up",
+      "origin_country": [
+        "BR"
+      ],
+      "original_language": "pt",
+      "original_name": "Vai na Fé",
+      "overview": "Sol is a hardworking woman who has the chance to work as a backing vocalist for a funk singer and return to dancing, as she did in her youth. Torn between family pressure and passion for the stage, she must face the judgment of her church's members and conflicts with her family. The new chance will make her reconnect with her past in many ways, leading her to find her great youth love.",
+      "popularity": 1655.548,
+      "poster_path": "/6QNohzb7YUJ6eWZkXAYU8KGIq.jpg",
+      "vote_average": 7.9,
+      "vote_count": 10
+    },
+    {
+      "backdrop_path": "/zzMmUE7aRRtHR9GL90zrtvlqXlm.jpg",
+      "first_air_date": "2023-05-25",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 226241,
+      "name": "VGLY",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "VGLY",
+      "overview": "Though stuck at the bottom of the social ladder with no money or contacts, aspiring artist Vgly and his crew strive to break into the music business.",
+      "popularity": 1586.621,
+      "poster_path": "/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg",
+      "vote_average": 8,
+      "vote_count": 42
+    },
+    {
+      "backdrop_path": "/xkiv3e1daoqil5MRJitCJcwUgk2.jpg",
+      "first_air_date": "2021-10-31",
+      "genre_ids": [
+        10764
+      ],
+      "id": 114294,
+      "name": "Judy Justice",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Judy Justice",
+      "overview": "The Honorable Judy Sheindlin, retired Judge of the Manhattan family Court, brings her signature blend of sharp wit and wisdom, hilarious candor and unwavering honesty that has made her America’s favorite judge for over 25 years, as she presides over real cases, arbitrates binding decisions and delivers what only she can: “Judy Justice.”",
+      "popularity": 1459.305,
+      "poster_path": "/4E8Rb9vPbixxC0ZdzSkvE5fpeQa.jpg",
+      "vote_average": 4,
+      "vote_count": 13
+    },
+    {
+      "backdrop_path": "/3FLHePl9Y3n4BidLVjIA9qSRDOE.jpg",
+      "first_air_date": "2021-08-03",
+      "genre_ids": [
+        10766
+      ],
+      "id": 130542,
+      "name": "Bhagya Lakshmi",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Bhagya Lakshmi",
+      "overview": "Hailing from a middle-class family, Lakshmi’s life is upended when she realises that her marriage to Rishi Oberoi, an industrialist’s son, is a sham to keep his death at bay.",
+      "popularity": 1441.22,
+      "poster_path": "/eVaGfVPA85AUrCAQoOLb0kY2SZA.jpg",
+      "vote_average": 4.7,
+      "vote_count": 40
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2005-09-05",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 36361,
+      "name": "Ulice",
+      "origin_country": [
+        "CZ"
+      ],
+      "original_language": "cs",
+      "original_name": "Ulice",
+      "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+      "popularity": 1263.615,
+      "poster_path": "/3ayWL13P1HeRnyVL9lU9flOdZjq.jpg",
+      "vote_average": 2.7,
+      "vote_count": 13
+    },
+    {
+      "backdrop_path": "/peqIR6V2zZdzp3MEZBCwtqw1Bf2.jpg",
+      "first_air_date": "2022-11-28",
+      "genre_ids": [
+        18
+      ],
+      "id": 215426,
+      "name": "Pyaar Ke Saat Vachan - Dharam Patni",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "Pyaar Ke Saat Vachan - Dharam Patni",
+      "overview": "What will happen when Ravi Randhawa, a business tycoon, meets Pratiksha Parekh, a simple school teacher? Will sparks fly? Or is there no happy-ever-after for the opposite personalities?",
+      "popularity": 1244.74,
+      "poster_path": "/fMR23wg4yNsTEhqyYIfvzDAOEae.jpg",
+      "vote_average": 4.3,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/lcSvkJ2Rob3ICIOCUJahw3kgSYZ.jpg",
+      "first_air_date": "2023-03-14",
+      "genre_ids": [
+        18
+      ],
+      "id": 216390,
+      "name": "Woman in a Veil",
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "비밀의 여자",
+      "overview": "Jung Gyul Wool loses her vision and ability to walk because of her materialistic husband and his mistress. Despite her shortcomings, she hatches a plot to seek revenge.",
+      "popularity": 1231.871,
+      "poster_path": "/5ERr09UrnVm0hdXBeefNVtQMxI.jpg",
+      "vote_average": 4.1,
+      "vote_count": 7
+    },
+    {
+      "backdrop_path": "/aqJPC5GXuiVbedajRmdOVMCb7mC.jpg",
+      "first_air_date": "2022-12-05",
+      "genre_ids": [
+        18,
+        10751,
+        10766
+      ],
+      "id": 215902,
+      "name": "Katha Ankahee",
+      "origin_country": [
+        "IN"
+      ],
+      "original_language": "hi",
+      "original_name": "कथा अनकही",
+      "overview": "Katha, a single parent, is in need of funds for her son's medical treatment. She comes across Viaan, who offers help but his conditions put her in an awkward situation.",
+      "popularity": 1231.465,
+      "poster_path": "/uhXU0SMPMlemKGHmwbldM60qqmW.jpg",
+      "vote_average": 9.5,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+      "first_air_date": "2023-01-09",
+      "genre_ids": [
+        10751,
+        35
+      ],
+      "id": 218145,
+      "name": "Mama na prenájom",
+      "origin_country": [
+        "SK"
+      ],
+      "original_language": "sk",
+      "original_name": "Mama na prenájom",
+      "overview": "",
+      "popularity": 1177.73,
+      "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+      "vote_average": 7,
+      "vote_count": 5
+    },
+    {
+      "backdrop_path": "/1CWhCGpl3sx92OATm3tELtLqBdX.jpg",
+      "first_air_date": "2023-02-20",
+      "genre_ids": [
+        10766
+      ],
+      "id": 220992,
+      "name": "Invincible Love",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "El Amor Invencible",
+      "overview": "After losing all her loved ones fifteen years ago and believing her babies were killed at the hands of the father of her first love, Leona Bravo (Angelique Boyer) embarks on a journey of justice against all those who hurt her. In this process, Leona discovers that her children are actually alive and is reunited with an old friend with whom she finds true love. As a result, she will be torn between her desire for justice and rebuilding her bond with her two children, as well as regaining her faith in love.",
+      "popularity": 1171.202,
+      "poster_path": "/i6zwenRLASRRKTklSW4r1IAiLKP.jpg",
+      "vote_average": 4,
+      "vote_count": 6
+    }
+  ],
+  "total_pages": 7507,
+  "total_results": 150124
+}

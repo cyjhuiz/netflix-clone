@@ -1,0 +1,40 @@
+# prerequisite container for backend to work
+version: "3.8"
+
+volumes:
+  rabbitmq_data:
+  redis_data:
+
+networks:
+  netflix-clone-net:
+    driver: bridge
+
+services:
+  ####################################
+  # RabbitMQ: The messaging broker
+  ####################################
+  rabbitmq:
+    image: rabbitmq:3-management
+    hostname: rabbitmq
+    restart: always
+    networks:
+      - netflix-clone-net
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+
+  ####################################
+  # Redis: Redis Store
+  ####################################
+  redis:
+    image: redis
+    hostname: redis
+    restart: always
+    networks:
+      - netflix-clone-net
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/var/lib/redis

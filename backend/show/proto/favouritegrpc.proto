@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option go_package = "github.com/cyjhuiz/netflix-clone/backend/show/proto";
+
+service FavouriteGRPC {
+  rpc GetFavouritesByShowID(GetFavouritesByShowIDRequest) returns (GetFavouritesByShowIDResponse);
+}
+
+message GetFavouritesByShowIDRequest {
+  int64 showID = 1;
+}
+
+message GetFavouritesByShowIDResponse {
+  repeated Favourite favourites = 1;
+}
+
+message Favourite {
+  int64 favouriteID = 1;
+  int64 showID = 2;
+  int64 userID = 3;
+}

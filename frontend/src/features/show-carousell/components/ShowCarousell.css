@@ -1,0 +1,17 @@
+.showCarousell {
+  color: white;
+  margin-left: 20px;
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.showCarousell__showCards {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+.showCarousell__showCards::-webkit-scrollbar {
+  display: none;
+}

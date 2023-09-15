@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option go_package = "github.com/cyjhuiz/netflix-clone/backend/user/proto";
+
+service UserGRPC {
+  rpc GetUsersByUserIDs(GetUsersByUserIDsRequest) returns (GetUsersByUserIDsResponse);
+}
+
+message GetUsersByUserIDsRequest {
+  repeated int64 userIDs = 1;
+}
+
+message GetUsersByUserIDsResponse {
+  repeated UserView users = 1;
+}
+
+message UserView {
+  int64 userID = 1;
+  string email = 2;
+  int64 subscriptionID = 3;
+  Subscription subscription = 4;
+}
+
+message Subscription {
+  int64 subscriptionID = 1;
+  string name = 2;
+  double price = 3;
+}

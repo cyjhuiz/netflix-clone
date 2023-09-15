@@ -1,0 +1,414 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/u4SDPknBWEEOCzPJvL0NwApkQSR.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        14,
+        35
+      ],
+      "id": 502356,
+      "original_language": "en",
+      "original_title": "The Super Mario Bros. Movie",
+      "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "popularity": 5368.542,
+      "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "release_date": "2023-04-05",
+      "title": "The Super Mario Bros. Movie",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 4117
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/35slSk2fwFGDK8pZnPprOFKWxhV.jpg",
+      "genre_ids": [
+        35,
+        28,
+        14
+      ],
+      "id": 594767,
+      "original_language": "en",
+      "original_title": "Shazam! Fury of the Gods",
+      "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+      "popularity": 1211.005,
+      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
+      "release_date": "2023-03-15",
+      "title": "Shazam! Fury of the Gods",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 1867
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kEzAcESWpCWVuJsOiJtKhBHJIbx.jpg",
+      "genre_ids": [
+        28,
+        35,
+        10749
+      ],
+      "id": 868759,
+      "original_language": "en",
+      "original_title": "Ghosted",
+      "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then makes the shocking discovery that she’s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+      "popularity": 770.212,
+      "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+      "release_date": "2023-04-18",
+      "title": "Ghosted",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 934
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12,
+        35
+      ],
+      "id": 315162,
+      "original_language": "en",
+      "original_title": "Puss in Boots: The Last Wish",
+      "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+      "popularity": 852.977,
+      "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "release_date": "2022-12-07",
+      "title": "Puss in Boots: The Last Wish",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 5660
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oblUNeHlwV3VsjB5ITMlco5ZSOF.jpg",
+      "genre_ids": [
+        12,
+        14,
+        35
+      ],
+      "id": 493529,
+      "original_language": "en",
+      "original_title": "Dungeons & Dragons: Honor Among Thieves",
+      "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+      "popularity": 624.255,
+      "poster_path": "/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
+      "release_date": "2023-03-23",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1581
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qAfGVKCOg1ueNFOA9KL85lo9zox.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 1016121,
+      "original_language": "en",
+      "original_title": "Beautiful Disaster",
+      "overview": "Bad-boy Travis is exactly what college freshman Abby needs and wants to avoid. He spends his nights fighting in underground boxing matches, and his days as the ultimate college campus charmer. But Abby wants nothing to do with Travis. Intrigued by Abby’s resistance, Travis offers her a simple bet: if he loses his next fight, he must remain sex-free for a month. If he wins, Abby must live in his apartment for the same amount of time. Either way, Travis has no idea that Abby’s dark past is about to emerge, and he may have finally met his match.",
+      "popularity": 368.223,
+      "poster_path": "/bwdLflvCcOCRPqb1x13KPuYIzVx.jpg",
+      "release_date": "2023-04-04",
+      "title": "Beautiful Disaster",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 215
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bWZ4ge00FlDyHcOQZl7AzbZcrxT.jpg",
+      "genre_ids": [
+        35,
+        28
+      ],
+      "id": 325358,
+      "original_language": "en",
+      "original_title": "Superfast!",
+      "overview": "Undercover cop Lucas White joins Vin Serento's LA gang of illegal street racers. They are fast and they are furious and they plan to double cross LA crime kingpin Juan Carlos de la Sol who hides his cash in a downtown Taco Bell. The gang's outrageous plan is as daring as it is ridiculous and will see them towing the whole restaurant, at crazy speeds.",
+      "popularity": 471.976,
+      "poster_path": "/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
+      "release_date": "2015-03-05",
+      "title": "Superfast!",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 355
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oq597AkQ3AOcUO1RdaUS8N6fmrz.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 920125,
+      "original_language": "en",
+      "original_title": "White Men Can't Jump",
+      "overview": "Seemingly opposite street hoopers, Jeremy, an injury prone former star, and Kamal, a has-been prodigy, team up to take one final shot at living out their dreams.",
+      "popularity": 245.56,
+      "poster_path": "/7MUQMSncjUSYeNx0ZAgFCxhlPhv.jpg",
+      "release_date": "2023-05-11",
+      "title": "White Men Can't Jump",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 117
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bT3IpP7OopgiVuy6HCPOWLuaFAd.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 638974,
+      "original_language": "en",
+      "original_title": "Murder Mystery 2",
+      "overview": "After starting their own detective agency, Nick and Audrey Spitz land a career-making case when their billionaire pal is kidnapped from his wedding.",
+      "popularity": 457.937,
+      "poster_path": "/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg",
+      "release_date": "2023-03-28",
+      "title": "Murder Mystery 2",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 1110
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vL5zdAKAnbcHjoewXoP4xy6ihf7.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        35
+      ],
+      "id": 1121116,
+      "original_language": "en",
+      "original_title": "Maggie Simpson in \"Rogue Not Quite One\"",
+      "overview": "On their way to daycare, Homer loses track of Maggie who hops in Grogu’s hovering pram for a hyperspace-hopping adventure across the galaxy. Facing a squadron of Imperial TIE fighters, Maggie brings the battle to Springfield in this epic short celebrating all things Star Wars.",
+      "popularity": 411.235,
+      "poster_path": "/gmTOhwzcSbEGG3xKRfQwwS2BTXD.jpg",
+      "release_date": "2023-05-04",
+      "title": "Maggie Simpson in \"Rogue Not Quite One\"",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e7FzphKs5gzoghDotAEp2FeP46u.jpg",
+      "genre_ids": [
+        27,
+        35,
+        28
+      ],
+      "id": 649609,
+      "original_language": "en",
+      "original_title": "Renfield",
+      "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+      "popularity": 486.476,
+      "poster_path": "/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+      "release_date": "2023-04-07",
+      "title": "Renfield",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 568
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 384018,
+      "original_language": "en",
+      "original_title": "Fast & Furious Presents: Hobbs & Shaw",
+      "overview": "Ever since US Diplomatic Security Service Agent Hobbs and lawless outcast Shaw first faced off, they just have traded smack talk and body blows. But when cyber-genetically enhanced anarchist Brixton's ruthless actions threaten the future of humanity, they join forces to defeat him.",
+      "popularity": 317.449,
+      "poster_path": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "release_date": "2019-08-01",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 6410
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/c3hl9E8E7b9opXDFVF5tSyk0ykr.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        12,
+        14
+      ],
+      "id": 816904,
+      "original_language": "es",
+      "original_title": "Momias",
+      "overview": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+      "popularity": 427.803,
+      "poster_path": "/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg",
+      "release_date": "2023-01-05",
+      "title": "Mummies",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 308
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aPvIX46VtxZDwu5bB2UcJ7xdpxs.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 977223,
+      "original_language": "en",
+      "original_title": "Polite Society",
+      "overview": "Martial artist-in-training Ria Khan believes she must save her older sister Lena from her impending marriage. After enlisting the help of her friends, Ria attempts to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.",
+      "popularity": 389.914,
+      "poster_path": "/lv1WqAo2ulQy9aSOG7ikR44p8RR.jpg",
+      "release_date": "2023-04-27",
+      "title": "Polite Society",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 42
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8K9UjencUfDVS4nKFmSk4URSoeU.jpg",
+      "genre_ids": [
+        53,
+        35,
+        80
+      ],
+      "id": 804150,
+      "original_language": "en",
+      "original_title": "Cocaine Bear",
+      "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+      "popularity": 398.109,
+      "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+      "release_date": "2023-02-22",
+      "title": "Cocaine Bear",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 1129
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kmGG8d0WuTZv0JxZFx1NXnFYxQh.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10751
+      ],
+      "id": 1121316,
+      "original_language": "es",
+      "original_title": "El último vagón",
+      "overview": "Georgina is a teacher determined to make a difference in the lives of the children she educates in the classroom of a wagon school in rural Mexico.",
+      "popularity": 343.867,
+      "poster_path": "/8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",
+      "release_date": "2023-05-26",
+      "title": "Where the Tracks End",
+      "video": false,
+      "vote_average": 8.8,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/A077VsMIBBXNvlI5mohGnSiIrfI.jpg",
+      "genre_ids": [
+        878,
+        27,
+        35
+      ],
+      "id": 536554,
+      "original_language": "en",
+      "original_title": "M3GAN",
+      "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+      "popularity": 319.961,
+      "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "release_date": "2022-12-28",
+      "title": "M3GAN",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 2697
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28,
+        35
+      ],
+      "id": 283995,
+      "original_language": "en",
+      "original_title": "Guardians of the Galaxy Vol. 2",
+      "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+      "popularity": 298.63,
+      "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "release_date": "2017-04-19",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 19844
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/r2tDSD6kcHflPzsGepl8aTPTWxy.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "id": 879444,
+      "original_language": "en",
+      "original_title": "Accident Man: Hitman's Holiday",
+      "overview": "The Accident Man is back, and this time he must best the top assassins in the world to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.",
+      "popularity": 1745.829,
+      "poster_path": "/npW9nfL7F3ZVpaCpabqo98KTLw6.jpg",
+      "release_date": "2022-10-14",
+      "title": "Accident Man: Hitman's Holiday",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 69
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1PRWW60yQparK1I8Soyy9Evf7Dv.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        18,
+        12
+      ],
+      "id": 869626,
+      "original_language": "en",
+      "original_title": "Marcel the Shell with Shoes On",
+      "overview": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. But when a documentary filmmaker discovers them amongst the clutter of his Airbnb, the short film he posts online brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+      "popularity": 314.931,
+      "poster_path": "/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+      "release_date": "2022-06-24",
+      "title": "Marcel the Shell with Shoes On",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 282
+    }
+  ],
+  "total_pages": 5818,
+  "total_results": 116357
+}
